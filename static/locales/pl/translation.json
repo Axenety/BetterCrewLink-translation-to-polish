@@ -53,7 +53,7 @@
 			"microphone_sens_warning": "Jeśli ustawisz czułość niżej, mikrofon może nie działać.",
 			"mastervolume": "Głośność główna",
 			"crewvolume": "Głośność żywych graczy dla duchów",
-			"ghostvolumeasimpostor": "Ghost Volume as Impostor",
+			"ghostvolumeasimpostor": "Głośność duchów dla impostora",
 			"test_speaker_start": "Przetestuj dźwięk",
 			"test_speaker_stop": "Zatrzymaj test dźwięku"
 		},
@@ -83,7 +83,7 @@
 		},
 		"advanced": {
 			"title": "Zaawansowane",
-			"nat_fix": "NAT Fix",
+			"nat_fix": "Naprawa NAT",
 			"nat_fix_warning": "To naprawi problemy z NAT, ale spowoduje opóźnienie, ponieważ używa serwera zamiast p2p.",
 			"change_server": "Zmień serwer głosowy",
 			"voice_server": "Serwer głosowy",
@@ -101,14 +101,14 @@
 			"echocancellation": "Tłumienie echa",
 			"noiseSuppression": "Tłumienie hałasu",
 			"spatial_audio": "Dźwięk przestrzenny",
-			"oldsampledebug": "Samplerate Debug",
-			"oldsampledebug_warning": "This is a test function ONLY enabled when asked."
+			"oldsampledebug": "Debugowanie częstotliwości próbkowania",
+			"oldsampledebug_warning": "To jest funkcja testowa TYLKO włączana na żądanie."
 		},
 		"streaming": {
 			"title": "Ustawienia streamingu",
 			"hidecode": "Pokaż kod poczekalni",
 			"obs_overlay": "Nakładka przeglądarki do OBS",
-			"obs_url": "OBS Browser Source URL",
+			"obs_url": "Adres URL do nakładki przeglądarki do OBS",
 			"voice_server_comp": "Tryb kompatybilnośći z serwerem głosowym",
 			"voice_server_comp_warning": "Zaleca się zamianę serwera głosowego na oficjalny serwer BetterCrewlink, czyli https://bettercrewl.ink"
 		},
